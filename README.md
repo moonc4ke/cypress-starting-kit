@@ -1,6 +1,6 @@
 # Cypress Starting Kit
 
-Cypress Starting Kit with Typescript support to kickstart your Cypress project.
+Cypress Starting Kit with typescript support to kickstart your cypress project.
 
 ## How to install?
 
