@@ -23,6 +23,7 @@
             "ignoreReadBeforeAssign": false
         }],
 		"constructor-super": 0,
-		"@typescript-eslint/ban-ts-comment": "off"
+        "@typescript-eslint/ban-ts-comment": "off",
+        "@typescript-eslint/no-var-requires": 0
     }
 }
